@@ -10,7 +10,7 @@ export default function App() {
       <p>Start editing to see some magic happen :) ???</p>	
       <div>
         result: {num1 ** num2}
-      </div>;
+      </div>
 
     </div>
   );
