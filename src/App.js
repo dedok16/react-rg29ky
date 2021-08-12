@@ -11,7 +11,6 @@ export default function App() {
       <div>
         result: {num1 ** num2}
       </div>
-
     </div>
   );
 }
